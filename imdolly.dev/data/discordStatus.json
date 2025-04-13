@@ -1,0 +1,20 @@
+{
+  "discord_user": {
+    "id": "123456789012345678",
+    "username": "dev",
+    "avatar": "abcdef1234567890",
+    "discriminator": "0",
+    "global_name": "dev"
+  },
+  "discord_status": "online",
+  "activities": [
+    {
+      "name": "Visual Studio Code",
+      "type": 0,
+      "state": "Editing portfolio website",
+      "details": "Working on React components"
+    }
+  ],
+  "listening_to_spotify": false,
+  "avatar_url": "https://cdn.discordapp.com/avatars/123456789012345678/abcdef1234567890.png"
+}
