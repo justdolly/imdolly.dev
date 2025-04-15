@@ -30,18 +30,18 @@ function getMockDiscordStatus(req, res) {
   res.json({
     discord_user: {
       id: DISCORD_USER_ID,
-      username: "aiden",
+      username: "??????",
       avatar: "abcdef1234567890",
       discriminator: "0",
-      global_name: "Aiden"
+      global_name: "??????"
     },
     discord_status: "online",
     activities: [
       {
         name: "Visual Studio Code",
         type: 0,
-        state: "Editing portfolio website",
-        details: "Working on React components"
+        state: "??????",
+        details: "??????"
       }
     ],
     listening_to_spotify: false,
@@ -55,8 +55,8 @@ var mockProjects = [
     title: "Modern Web Dashboard",
     description: "A fully responsive dashboard built with SolidJS and TypeScript featuring real-time data visualization.",
     imageUrl: "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-    projectUrl: "https://github.com/aiden",
-    sourceUrl: "https://github.com/aiden",
+    projectUrl: "??????",
+    sourceUrl: "??????",
     tags: ["SolidJS", "TypeScript", "Vite", "Custom CSS"],
     type: "Personal Project"
   },
@@ -64,8 +64,8 @@ var mockProjects = [
     title: "Discord Bot Framework",
     description: "A modular framework for building Discord bots with TypeScript, featuring plugin architecture and real-time analytics.",
     imageUrl: "https://images.unsplash.com/photo-1610986603166-f78428624e76?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-    projectUrl: "https://github.com/aiden",
-    sourceUrl: "https://github.com/aiden",
+    projectUrl: "??????",
+    sourceUrl: "??????",
     tags: ["TypeScript", "Node.js", "Discord.js", "Docker"],
     type: "Open Source"
   },
@@ -73,8 +73,8 @@ var mockProjects = [
     title: "Developer Blog Engine",
     description: "A performant blog engine built for developers with syntax highlighting, markdown support, and optimized images.",
     imageUrl: "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-    projectUrl: "https://github.com/aiden",
-    sourceUrl: "https://github.com/aiden",
+    projectUrl: "??????",
+    sourceUrl: "??????",
     tags: ["SolidJS", "TypeScript", "Markdown", "WebP/AVIF"],
     type: "Collaboration"
   },
@@ -82,8 +82,8 @@ var mockProjects = [
     title: "Smart Home Dashboard",
     description: "A dashboard for monitoring and controlling smart home devices using React and WebSockets.",
     imageUrl: "https://images.unsplash.com/photo-1558002038-1055e2a8e5a4?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-    projectUrl: "https://github.com/aiden",
-    sourceUrl: "https://github.com/aiden",
+    projectUrl: "??????",
+    sourceUrl: "??????",
     tags: ["React", "WebSockets", "IoT", "Tailwind CSS"],
     type: "Personal Project"
   },
@@ -91,8 +91,8 @@ var mockProjects = [
     title: "Markdown Note Taking App",
     description: "A minimalist note-taking application with Markdown support, tagging, and cloud sync.",
     imageUrl: "https://images.unsplash.com/photo-1512070679279-8988d32161be?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-    projectUrl: "https://github.com/aiden",
-    sourceUrl: "https://github.com/aiden",
+    projectUrl: "??????",
+    sourceUrl: "??????",
     tags: ["SolidJS", "TypeScript", "IndexedDB", "PWA"],
     type: "Open Source"
   },
@@ -100,8 +100,8 @@ var mockProjects = [
     title: "Weather Visualization Tool",
     description: "A beautiful visualization of global weather patterns using D3.js and weather APIs.",
     imageUrl: "https://images.unsplash.com/photo-1526743033530-d392aae6f76f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-    projectUrl: "https://github.com/aiden",
-    sourceUrl: "https://github.com/aiden",
+    projectUrl: "??????",
+    sourceUrl: "??????",
     tags: ["JavaScript", "D3.js", "REST API", "SVG"],
     type: "Data Visualization"
   }
@@ -127,7 +127,7 @@ var mockBlogPosts = [
     title: "Integrating Discord Presence with Lanyard API",
     excerpt: "A step-by-step guide on setting up a self-hosted Lanyard instance to display your real-time Discord presence on your personal website or portfolio.",
     date: "February 10, 2023",
-    readTime: "6 min",
+    readTime: "60000 min",
     tags: ["Discord", "API", "Node.js"],
     url: "#"
   },
