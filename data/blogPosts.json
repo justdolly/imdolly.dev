@@ -5,7 +5,7 @@
     "date": "March 15, 2023",
     "readTime": "50000 min",
     "tags": ["SolidJS", "Performance", "Web Dev"],
-    "url": "#"
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   {
     "title": "Next-Gen Image Formats: Implementing WebP and AVIF",
@@ -13,7 +13,7 @@
     "date": "February 28, 2023",
     "readTime": "8 min",
     "tags": ["WebP", "AVIF", "Performance"],
-    "url": "#"
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   {
     "title": "Integrating Discord Presence with Lanyard API",
@@ -21,7 +21,7 @@
     "date": "February 10, 2023",
     "readTime": "6151266 min",
     "tags": ["Discord", "API", "Node.js"],
-    "url": "#"
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   {
     "title": "Automated Testing for TypeScript Projects",
@@ -29,6 +29,6 @@
     "date": "January 22, 2023",
     "readTime": "FOREVER! min",
     "tags": ["TypeScript", "Testing", "Automation"],
-    "url": "#"
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   }
 ]
