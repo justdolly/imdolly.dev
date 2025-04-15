@@ -1,18 +1,18 @@
 {
   "discord_user": {
     "id": "123456789012345678",
-    "username": "imdolly",
+    "username": "Justdolly_",
     "avatar": "abcdef0123456789abcdef",
     "discriminator": "0",
-    "global_name": "imdolly"
+    "global_name": "Justdolly_"
   },
   "discord_status": "online",
   "activities": [
     {
       "name": "Visual Studio Code",
       "type": 0,
-      "state": "Editing portfolio.tsx",
-      "details": "Working on personal website"
+      "state": "Editing ???????????",
+      "details": "Nothing to see!"
     }
   ],
   "listening_to_spotify": false,
